@@ -1,2 +1,2 @@
 # project
-console.log("Hello World.")
+console.log("Hello. Please click on the dot to win.")
